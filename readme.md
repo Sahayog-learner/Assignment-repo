@@ -44,7 +44,7 @@ On server
 On Browser
 
 ```bash
-    curl -v <Server-ip>
+    http://<Server-ip>
 ```
 
 ## Task 3 – Automation & Shell Scripting
