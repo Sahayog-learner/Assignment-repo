@@ -36,17 +36,16 @@ docker ps
 ```
 
 # Verify proxy routing
-
 On server
 
-    ```bash
-        curl -v http://localhost
-    ```
+```bash
+    curl -v http://localhost
+```
 On Browser
 
-    ```bash
+```bash
     curl -v <Server-ip>
-    ```
+```
 
 ## Task 3 – Automation & Shell Scripting
 
